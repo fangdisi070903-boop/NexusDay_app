@@ -1,0 +1,15 @@
+{
+  "src": [
+    "pages/SplashPage",
+    "pages/Index",
+    "pages/HomePage",
+    "pages/AddCountdown",
+    "pages/EditCountdown",
+    "pages/CountdownDetail",
+    "pages/HistoryToday",
+    "pages/Settings",
+    "pages/AboutUs",
+    "pages/PrivacyPolicy",
+    "pages/UserAgreement"
+  ]
+}

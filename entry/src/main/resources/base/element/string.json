@@ -1,0 +1,188 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Nexus Day - 管理你生命中所有重要时间节点"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Nexus Day 主入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Nexus Day"
+    },
+    {
+      "name": "app_name",
+      "value": "Nexus Day"
+    },
+    {
+      "name": "home_title",
+      "value": "我的倒计时"
+    },
+    {
+      "name": "add_countdown",
+      "value": "添加倒计时"
+    },
+    {
+      "name": "edit_countdown",
+      "value": "编辑倒计时"
+    },
+    {
+      "name": "settings",
+      "value": "设置"
+    },
+    {
+      "name": "about_us",
+      "value": "关于我们"
+    },
+    {
+      "name": "privacy_policy",
+      "value": "隐私政策"
+    },
+    {
+      "name": "user_agreement",
+      "value": "用户协议"
+    },
+    {
+      "name": "version_info",
+      "value": "版本信息"
+    },
+    {
+      "name": "clear_data",
+      "value": "清空所有数据"
+    },
+    {
+      "name": "save",
+      "value": "保存"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "delete",
+      "value": "删除"
+    },
+    {
+      "name": "confirm",
+      "value": "确认"
+    },
+    {
+      "name": "title_label",
+      "value": "标题"
+    },
+    {
+      "name": "date_label",
+      "value": "目标日期"
+    },
+    {
+      "name": "note_label",
+      "value": "备注（可选）"
+    },
+    {
+      "name": "category_label",
+      "value": "分类"
+    },
+    {
+      "name": "type_label",
+      "value": "类型"
+    },
+    {
+      "name": "countdown_type",
+      "value": "倒计时"
+    },
+    {
+      "name": "countup_type",
+      "value": "正计时"
+    },
+    {
+      "name": "days_unit",
+      "value": "天"
+    },
+    {
+      "name": "hours_unit",
+      "value": "时"
+    },
+    {
+      "name": "minutes_unit",
+      "value": "分"
+    },
+    {
+      "name": "seconds_unit",
+      "value": "秒"
+    },
+    {
+      "name": "remaining",
+      "value": "还有"
+    },
+    {
+      "name": "passed",
+      "value": "已过"
+    },
+    {
+      "name": "empty_hint",
+      "value": "暂无倒计时\n点击右上角 + 添加你的第一个时间节点"
+    },
+    {
+      "name": "delete_confirm",
+      "value": "确定要删除这个倒计时吗？"
+    },
+    {
+      "name": "clear_confirm",
+      "value": "确定要清空所有数据吗？此操作不可恢复。"
+    },
+    {
+      "name": "category_life",
+      "value": "生活"
+    },
+    {
+      "name": "category_study",
+      "value": "学习"
+    },
+    {
+      "name": "category_work",
+      "value": "工作"
+    },
+    {
+      "name": "category_anniversary",
+      "value": "纪念日"
+    },
+    {
+      "name": "all_category",
+      "value": "全部"
+    },
+    {
+      "name": "title_required",
+      "value": "请输入标题"
+    },
+    {
+      "name": "date_required",
+      "value": "请选择日期"
+    },
+    {
+      "name": "version",
+      "value": "版本"
+    },
+    {
+      "name": "app_slogan",
+      "value": "管理你生命中所有重要时间节点"
+    },
+    {
+      "name": "app_description",
+      "value": "Nexus 是连接点、核心。每个倒计时是你时间线的连接点。所有考试、生日、旅行、毕业、发薪日，都在这里汇聚成你的时间枢纽。"
+    },
+    {
+      "name": "camera_reason",
+      "value": "用于拍摄背景图片"
+    },
+    {
+      "name": "read_media_reason",
+      "value": "用于从图库选择背景图片"
+    },
+    {
+      "name": "write_media_reason",
+      "value": "用于保存生成的倒计时图片"
+    }
+  ]
+}
